@@ -3,8 +3,8 @@ body {
 }
 header {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border-color: turquoise;
+    border-color: mediumaquamarine;
     border-width: 3px;
     border-style: groove;
-    background-color: pink
- 
+    background-color: pink;
+    text-color: mediumaquamarine
